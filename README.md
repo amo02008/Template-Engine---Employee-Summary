@@ -6,7 +6,6 @@ This application generates a team  roste. Using inquirer the user is prompted to
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
-
 ## Table of Contents
   * [Description](#description)
   * [User Story](#user_story)
@@ -14,6 +13,8 @@ This application generates a team  roste. Using inquirer the user is prompted to
   * [Usage](#usage)
   * [License](#license)
   * [Tests](#tests)
+
+  <img src="/output/myteam.png">
   
 ## User Story
 As a manager I want to generate a webpage that displays my team's basic info
