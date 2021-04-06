@@ -1,7 +1,7 @@
 # Template-Engine---Employee-Summary
 
 ## Description
-This application generates a team  roste. Using inquirer the user is prompted to add employees (manger, engineer, and intern). Once all employees have been added and HTML file will be generated showing all employee info.
+This application generates a team  roster. Using inquirer the user is prompted to add employees (manger, engineer, and intern). Once all employees have been added and HTML file will be generated showing all employee info.
 
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
